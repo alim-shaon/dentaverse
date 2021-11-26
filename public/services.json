@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Teeth Whitening",
+        "img": "https://i.ibb.co/cCtcfWd/Teeth-Whitening.jpg",
+        "icon": "https://i.ibb.co/KsfPxsd/Teeth-Whitening.png",
+        "shortDescription": "Dental bleaching, also known as tooth whitening, is a common procedure in general dentistry. According to the FDA, whitening restores natural tooth color and bleaching whitens beyond the natural color.",
+        "fullDescription": "Compared to over-the-counter whitening techniques, professional teeth whitening from a cosmetic dentist can offer a faster method of treatment as well as more powerful results. Teeth whitening at Encinitas Cosmetic Dentistry involves a simple, relaxing in-office procedure designed to lighten your enamel by several shades at once. Best of all, the results are noticeable before you leave our office. In contrast, over-the-counter whitening kits, toothpastes, and rinses often only yield a subtle change in your tooth color, which is typically not apparent until after several weeks to months of daily use. In turn, these products may prevent patients from receiving as dramatic a difference as they would like, or from achieving effective results within their desired timeframe.The ADA recommends to have one’s teeth checked by a dentist before undergoing any whitening method. The dentist should examine the patient thoroughly: take a health and dental history (including allergies and sensitivities), observe hard and soft tissues, placement and conditions of restorations, and sometimes x-rays to determine the nature and depth of possible irregularities.",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/1KR3PSS/Dr-Joseph-Phillips.jpg",
+            "name": "Dr.Joseph Phillips",
+            "rank": "Senior Doctor",
+            "cretification": "National Specialist Register in Dental"
+        }
+    },
+    {
+        "id": 2,
+        "serviceName": "Cosmetic Braces",
+        "img": "https://i.ibb.co/BqFSRs0/Cosmetic-Braces.jpg",
+        "icon": "https://i.ibb.co/DDvVVsY/Cosmetic-Braces.png",
+        "shortDescription": "Wondering if getting cosmetic braces is the right choice for you?This straightening option is not only able to improve your overall oral health, because straight teeth support a healthy mouth, but you will also receive the benefit of having a more pleasing smile",
+        "fullDescription": "Cosmetic braces are also known as invisible braces and clear braces. The reason behind making these types of braces is to give dental patients options. While many patients who are in need of braces will choose traditional metal braces, there are many more who would prefer not to wear metal braces. Instead, they would prefer to have more discreet options, which is why so many new and exciting braces options are available today.The following are two of the more common cosmetic brace choices dental patients are choosing nowadays.Brace choice #1 – traditional fixed braces. Instead of the traditional braces being made of metal, they can be made using natural materials that can match the color of the teeth, like ceramic.Brace choice #2 – removable braces. The option to wear removable braces that are clear, and therefore barely noticeable, is another option for those who want straighter teeth but do not want it to be obvious that they are wearing braces.",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/2Wn2fdC/Matthew-Brooks.jpg",
+            "name": "Matthew Brooks",
+            "rank": "Cosmetic Dentist",
+            "cretification": "Health Sciences School of Dental Medicine"
+        }
+    },
+    {
+        "id": 3,
+        "serviceName": "Dental Implant",
+        "img": "https://i.ibb.co/nDxh36x/Dental-Implant.jpg",
+        "icon": "https://i.ibb.co/DCDyw1Q/Dental-Implant.png",
+        "shortDescription": "Dental implants are titanium posts that integrate into the jawbone, functioning very similarly to a natural tooth’s root. This artificial root or implant is placed by a specialized oral surgeon or periodontist.",
+        "fullDescription": "A dental implant (also known as an endosseous implant or fixture) is a surgical component that interfaces with the bone of the jaw or skull to support a dental prosthesis such as a crown, bridge, denture, or facial prosthesis or to act as an orthodontic anchor. The basis for modern dental implants is a biologic process called osseointegration, in which materials such as titanium or zirconia form an intimate bond to bone. The implant fixture is first placed so that it is likely to osseointegrate, then a dental prosthetic is added. A variable amount of healing time is required for osseointegration before either the dental prosthetic (a tooth, bridge or denture) is attached to the implant or an abutment is placed which will hold a dental prosthetic/crown.",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/bPZS6jh/Julia-Mitchell.jpg",
+            "name": "Julia Mitchell",
+            "rank": "Dentist-surgeon",
+            "cretification": "National Specialist Register in Dental"
+        }
+    },
+    {
+        "id": 4,
+        "serviceName": "Laser-Assisted PeriodTreatmentontal ",
+        "img": "https://i.ibb.co/R6M1x1h/Laser-Assisted-Periodontal-Treatment.jpg",
+        "icon": "https://i.ibb.co/6yPCtfC/Laser-Assisted-Period-Treatmentontal.png",
+        "shortDescription": "Periodontal disease, more commonly known as gum disease, is an infection in the gums and bone that support a tooth. This condition is very common and some studies indicate that nearly half of Americans are affected by inflammation in the gum tissue. ",
+        "fullDescription": "Periodontal laser treatment can be performed on the same day as your appointment. Our sophisticated BIOLASE® dental lasers are used during deep cleanings as well as scaling and root planing treatments, which involve your dental hygienist cleaning your teeth one-by-one to remove plaque and tartar from above and below the gumline. The laser works to remove dead tissue, kill bacteria, and sterilize the gum pocket to restore a healthier mouth. Laser dentistry can also treat more advanced gum disease in lieu of periodontal surgery and promote immediate healing of the gum tissue as well as bone regeneration.",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/dfgzLVC/Richard-Scott.jpg",
+            "name": "Richard Scott",
+            "rank": "Senior Doctor",
+            "cretification": "National Specialist Register in Dental"
+        }
+    },
+    {
+        "id": 5,
+        "serviceName": "Complete Dental Exam",
+        "img": "https://i.ibb.co/t3V3DFh/Complete-Dental-Exam.jpg",
+        "icon": "https://i.ibb.co/qYWhkts/Dental-Exam.png",
+        "shortDescription": "During your exam, our dentist will perform an oral cancer screening by examining your head, neck, and the inside of your mouth. They will also check your jaw joints for malfunction or pain. These are followed by a thorough inspection of your teeth and gums to assess the condition of your oral health and detect any gum disease or tooth decay",
+        "fullDescription": "The dental exam includes evaluating your risk of developing other oral problems and checking your face, neck and mouth for abnormalities. A dental exam might also include dental X-rays (radiographs) or other diagnostic procedures.Your dentist or hygienist will likely discuss your diet and oral hygiene habits and might demonstrate proper brushing and flossing techniques. Other topics might include lifestyle factors that can affect oral health and possible cosmetic.Regular dental exams help protect not just your oral health, but also your overall health. For instance, signs and symptoms of some systemic diseases, such as rheumatoid arthritis, lupus and diabetes, might show up in the mouth first. If your hygienist or dentist finds indications of disease, he or she will suggest that you see your doctor. improvements to your teeth.",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/LkV6jkW/Dr-David-Costa.jpg",
+            "name": "Dr.David Costa",
+            "rank": "Senior Doctor",
+            "cretification": "National Specialist Register in DentalNational Specialist Register in Dental"
+        }
+    },
+    {
+        "id": 6,
+        "serviceName": "Root Canal",
+        "img": "https://i.ibb.co/JzgkV3Y/Root-Canal.jpg",
+        "icon": "https://i.ibb.co/KFSJKrL/Root-Canal.png",
+        "shortDescription": "A root canal (also known as an endodontic treatment) is a serious procedure, but one that specialists handle every day. Before engaging in any type of dental work, it’s important to know the facts about root canals.",
+        "fullDescription": "Root canal treatment is designed to eliminate bacteria from the infected root canal, prevent reinfection of the tooth and save the natural tooth. When one undergoes a root canal, the inflamed or infected pulp is removed and the inside of the tooth is carefully cleaned and disinfected, then filled and sealed.Inside your tooth, beneath the white enamel and a hard layer called dentin, is a soft tissue called pulp. This tissue contains blood vessels, nerves and connective tissue, which help grow the root of your tooth during its development. A fully developed tooth can survive without the pulp because the tooth continues to be nourished by the tissues surrounding it.A modern root canal treatment is nothing like those old sayings! It’s very similar to a routine filling and can usually be completed in one or two appointments, depending on the condition of your tooth and your personal circumstances. Getting a root canal is relatively painless and extremely effective. You’ll be back to smiling, biting and chewing with ease in no time.",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/njQsnBJ/Megan-Clark.jpg",
+            "name": "Megan Clark",
+            "rank": "Dentist-orthopedist",
+            "cretification": "National Specialist Register in Dental"
+        }
+    },
+    {
+        "id": 7,
+        "serviceName": "Tooth Extractions",
+        "img": "https://i.ibb.co/XFKgqDf/Tooth-Extractions.jpg",
+        "icon": "https://i.ibb.co/k5HF7WP/Tooth-Extractions.png",
+        "shortDescription": "A tooth extraction, or dental extraction, is the removal of a tooth from its socket in the bone. There are a number of reasons why tooth removal may be necessary. An extraction may be necessary if your tooth is so damaged that it can't be fixed with a dental restoration. In some cases, dentists extract teeth to prepare the patient's mouth for orthodontic treatment.",
+        "fullDescription": "If tooth decay or damage extends to the pulp the center of the tooth containing nerves and blood vessels bacteria in the mouth can enter the pulp, leading to infection.Excessive tooth decay, tooth infection, and crowding can all require a tooth extraction. Those who get braces may need one or two teeth removed to provide room for their other teeth as they shift into place. Additionally, those who are undergoing chemotherapy or are about to have an organ transplant may need compromised teeth removed in order to keep their mouth healthy.Tooth extraction is performed by a dentist or oral surgeon and is a relatively quick outpatient procedure with either local, general, intravenous anesthesia, or a combination. Removing visible teeth is a simple extraction. Teeth that are broken, below the surface, or impacted require a more involved procedure.",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/dfgzLVC/Richard-Scott.jpg",
+            "name": "Richard Scott",
+            "rank": "Senior Doctor",
+            "cretification": "National Specialist Register in Dental"
+        }
+    },
+    {
+        "id": 8,
+        "serviceName": "Dental Crowns",
+        "img": "https://i.ibb.co/HVCBTPZ/Dental-Crowns.jpg",
+        "icon": "https://i.ibb.co/mqy14r1/Dental-Crowns.png",
+        "shortDescription": "Dental crowns are strong dental coverings placed to fix and reinforce a damaged tooth while restoring the full integrity of one’s bite. Think of a dental crown as a protective “cap” that fits comfortably over your natural tooth. They can be used to strengthen individual teeth, anchor a dental bridge, support a tooth after a root canal, or top a dental implant",
+        "fullDescription": "A dental crown is crafted according to diagnostic impressions taken of your mouth and bonded over your tooth using a durable cement. Dental crowns are designed to look and feel entirely natural, with our dentists’ use of high-quality ceramic allowing the crown to bear a significant resemblance to your real tooth. In turn, dental crowns can blend in with your smile without looking odd or out of place. These restorations offer many other benefits including Long-lasting results,Ability to prevent further damage and/or a tooth extraction,Stronger biting function,Restore a broken tooth",
+        "doctor": {
+            "doctorImg": "https://i.ibb.co/bPZS6jh/Julia-Mitchell.jpg",
+            "name": "Julia Mitchell",
+            "rank": "Dentist-surgeon",
+            "cretification": "National Specialist Register in Dental"
+        }
+    }
+]
